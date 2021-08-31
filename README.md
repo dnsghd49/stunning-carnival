@@ -10,7 +10,7 @@ Decorate your Portfolio
 
 ## Screenshot
 
-![ScreenShot](https://raw.github.com/dnsghd49/SockoutJS/master/imgs/screenshot.png)
+![ScreenShot](https://raw.github.com/dnsghd49/stunning-carnival/master/imgs/screenshot.png)
 
 ## Table of Contents 
 
